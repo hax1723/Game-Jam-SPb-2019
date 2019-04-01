@@ -16,3 +16,5 @@ team "Noo_Blean":
 Team Lead - Panyukov Kerey
 Coders - Lobaev Leonid, Ashirali Alibek
 Artist - Kolupaeva Anna
+
+![Иллюстрация к проекту](https://github.com/hax1723/Game-Jam-SPb-2019/blob/master/poster.jpg)
