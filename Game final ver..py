@@ -280,7 +280,7 @@ def loadMap(map):
         tim = pygame.sprite.Sprite()
         tim.rect = pygame.Rect(col * Tile_Size, row * Tile_Size, 30, 40)
         tim.image = precacheImage('time-40.png')
-        pos_x = 770-pygame.time.get_ticks()/2000
+        pos_x = 770-pygame.time.get_ticks()/500
         if pos_x < 610:
             pos_x = 610
             #fired += 1
