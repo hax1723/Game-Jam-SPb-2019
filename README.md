@@ -17,4 +17,4 @@ Team Lead - Panyukov Kerey
 Coders - Lobaev Leonid, Ashirali Alibek
 Artist - Kolupaeva Anna
 
-![Иллюстрация к проекту](https://github.com/hax1723/Game-Jam-SPb-2019/blob/master/poster.jpg)
+<img src="/poster.jpg" width=40% alt="Poster">
